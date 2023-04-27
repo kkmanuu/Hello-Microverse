@@ -1,12 +1,4 @@
-<a name="readme-top"></a>
-
-<div align="center">
-  <img src="Microv.jpeg.jpeg" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
+<a name="readme-top">Hello, my name is Emmanuel Kipngeno. I am a Micronaut.</a>
 
 
 # 📗 Table of Contents
