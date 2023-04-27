@@ -28,7 +28,7 @@
 
 Hello-Microverse is an amazing and simple html page with an h1 header in my awesemo color.
 
-**[your_project__name]** is a...
+**[Hello-Microverse]** is a simple html page with an h1 header in my awesemo color.
 
 ## 🛠 Built With <a name="built-with"></a>
 
