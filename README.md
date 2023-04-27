@@ -1,4 +1,4 @@
-<a name="readme-top">Hello-Microverse</a>
+<a name="readme-top"></a>
 
 
 # 📗 Table of Contents
@@ -24,7 +24,7 @@
 - [📝 License](#license)
 
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [your_project_name] <a name="Hello-Microverse"></a>
 
 Hello-Microverse is an amazing and simple html page with an h1 header in my awesemo color.
 
