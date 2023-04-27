@@ -163,13 +163,13 @@ I would like to thank  Microverse for this opportunity.
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[what are gitingnore for]**
 
-  - [Answer_1]
+  - [Is used to specify files or directories that should be ignored by Git when tracking changes to a project. ]
 
-- **[Question_2]**
+- **[what are Linters for]**
 
-  - [Answer_2]
+  - [It is a tool that analyzes source code to flag programming errors, bugs, and stylistic issues. Linters are often used to enforce code quality and consistency across a project, and can help prevent bugs and improve code readability.]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
